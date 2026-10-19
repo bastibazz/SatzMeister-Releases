@@ -6,6 +6,15 @@
     <description>Updates für SatzMeister</description>
     <language>de</language>
     <item>
+      <title>SatzMeister 0.2.2</title>
+      <pubDate>Mon, 19 Oct 2026 20:34:36 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Was ist neu</p>]]></description>
+      <enclosure url="https://github.com/bastibazz/SatzMeister-Releases/releases/download/v0.2.2/SatzMeister-0.2.2.zip" length="6550113" type="application/octet-stream" sparkle:edSignature="U+AeK53iYsxbystBF8kOA/kK6JwVfZYiekYWOQV3mDxFWaVJfNR2cqb5ZOlzT+5ivhDOkS43AVoDYYGct41bBw=="/>
+    </item>
+    <item>
       <title>SatzMeister 0.2.1</title>
       <pubDate>Mon, 19 Oct 2026 20:30:26 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
