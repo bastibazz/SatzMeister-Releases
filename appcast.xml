@@ -6,6 +6,15 @@
     <description>Updates für SatzMeister</description>
     <language>de</language>
     <item>
+      <title>SatzMeister 0.2.3</title>
+      <pubDate>Mon, 19 Oct 2026 21:06:09 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Neu: Parakeet als besonders schnelles lokales Erkennungsmodell; kurze, saubere Sätze werden ohne KI und damit etwa eine Sekunde schneller eingefügt. Behoben: Bei Diktaten über 30 Sekunden ging teils ein Satz verloren; nach Updates keine Schlüsselbund-Abfragen mehr.</p>]]></description>
+      <enclosure url="https://github.com/bastibazz/SatzMeister-Releases/releases/download/v0.2.3/SatzMeister-0.2.3.zip" length="6558869" type="application/octet-stream" sparkle:edSignature="ExidRJhPQCS5HeBqSyVXhc5nL8pKL7+V1U7kRuiCfZ6VJk2F8FWq/4uKC95X7STHMXdoD9faHizK9YxUV/QZBg=="/>
+    </item>
+    <item>
       <title>SatzMeister 0.2.2</title>
       <pubDate>Mon, 19 Oct 2026 20:34:36 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
