@@ -6,6 +6,15 @@
     <description>Updates für SatzMeister</description>
     <language>de</language>
     <item>
+      <title>SatzMeister 0.2.4</title>
+      <pubDate>Sun, 25 Oct 2026 15:27:29 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Lange Diktate werden jetzt vollständig geglättet. Das zuletzt Diktierte lässt sich oben im Menü erneut einfügen, auch nach einem Neustart. Die Glättung fügt keine ungewollten Absätze mehr ein und setzt nach indirekten Fragen einen Punkt. Feineres Symbol in der Menüleiste. Wörterbuch und Snippets lassen sich exportieren und importieren.</p>]]></description>
+      <enclosure url="https://github.com/bastibazz/SatzMeister-Releases/releases/download/v0.2.4/SatzMeister-0.2.4.zip" length="6580261" type="application/octet-stream" sparkle:edSignature="H93bTf1oHKybxxfEzp2gAYGK6tnK5+XuU8C9El7jInz1cz09fGAT470POApZkRGJkNDnJmcUL3G59jrNQnuNCw=="/>
+    </item>
+    <item>
       <title>SatzMeister 0.2.3</title>
       <pubDate>Mon, 19 Oct 2026 21:06:09 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
